@@ -8,7 +8,8 @@ This project inclues
 ## Running
 
 To run the project hit,
-```yarn <br>
+```
+yarn
 yarn start
 ```
 or,
